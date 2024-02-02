@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="btn_scan_identity">@dimen/_40sdp</dimen>
+    <dimen name="btn_next_pre_step">@dimen/_65sdp</dimen>
+</resources>

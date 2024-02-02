@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scan Identity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_front_title">Chụp mặt trước</string>
+    <string name="scan_back_title">Chụp mặt sau</string>
+</resources>
